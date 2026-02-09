@@ -1,0 +1,1 @@
+from main_module_10 import myfunc
